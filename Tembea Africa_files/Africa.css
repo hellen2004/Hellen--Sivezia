@@ -1,0 +1,18 @@
+#nav-links ul{
+   display: flex;
+   list-style: none; 
+   color: black;
+   gap: 15px;
+   justify-content: end;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.banner{
+    background-image: url(https://images.unsplash.com/photo-1489392191049-fc10c97e64b6?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGFmcmljYXxlbnwwfHwwfHx8MA%3D%3D);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+}

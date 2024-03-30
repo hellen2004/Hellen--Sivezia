@@ -1,0 +1,15 @@
+main>section{
+    display: flex;
+    margin: ;
+    gap: 5%;
+}
+main>section>.about{
+padding-top: 5%;
+}
+main>section> .About>button{
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    padding: 8px 5px;
+    border-style: none;
+}
